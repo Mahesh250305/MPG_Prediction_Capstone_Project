@@ -126,7 +126,7 @@ The Power BI dashboard was created to visualize:
 
 ## Dashboard Screenshot
 
-![Dashboard](MPG_Capstone/Project_files/Screenshot/Screenshot_2026-05-08_220332.png)
+![Dashboard](MPG_Capstone/Project_files/Screenshot/Powerbi_Dashboard.png)
 
 ---
 
