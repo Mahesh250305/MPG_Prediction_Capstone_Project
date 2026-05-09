@@ -124,9 +124,9 @@ The Power BI dashboard was created to visualize:
 - Fuel Efficiency Trends
 - Model Prediction Insights
 
-## Dashboard Screenshot
+## Dashboard Preview
 
-![Dashboard](MPG_Capstone/Project_files/Screenshot/Powerbi_Dashboard.png)
+![Dashboard](Screenshot/Powerbi_Dashboard.png)
 
 ---
 
